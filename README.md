@@ -3,3 +3,7 @@
 
 # Observação
  Futuramente pretendo cria uma landing page para uma melhor exibição e compreensão.
+
+# Desafios Concluídos
+
+- [QR Code Component](https://octavio-oi.github.io/Frontend-Mentor-Challenges-Complete/challenges/qr-code-component/)
