@@ -22,7 +22,7 @@ That is my solution to the [QR code component challenge on Frontend Mentor](http
 ### Links
 
 - Challenge URL: [QR code component challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
-- Solution URL: [QR code component solution](https://octavio-oi.github.io/Frontend-Mentor-Challengers-Complete/challengers/qr-code-component/)
+- Solution URL: [QR code component solution](https://octavio-oi.github.io/Frontend-Mentor-Challenges-Complete/challenges/qr-code-component/)
 
 ## My process
 
