@@ -7,3 +7,4 @@
 # Desafios Concluídos
 
 - [QR Code Component](https://octavio-oi.github.io/Frontend-Mentor-Challenges-Complete/challenges/qr-code-component/)
+- [Product preview card component](https://octavio-oi.github.io/Frontend-Mentor-Challenges-Complete/challenges/product-preview-card-component/)
