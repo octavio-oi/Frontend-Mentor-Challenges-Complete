@@ -1,6 +1,6 @@
-# Frontend Mentor - Product preview card component solution
+# Frontend Mentor - NFT preview card component solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
 
 ## Table of contents
 
@@ -21,8 +21,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Challenge URL: [Product preview card component challenge](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
-- Solution URL: [Product preview card component solution](https://octavio-oi.github.io/Frontend-Mentor-Challenges-Complete/challenges/product-preview-card-component/)
+- Challenge URL: [NFT preview card component challenge](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
+- Solution URL: [NFT preview card component solution](https://octavio-oi.github.io/Frontend-Mentor-Challenges-Complete/challenges/nft-preview-card-component/)
 
 ## My process
 

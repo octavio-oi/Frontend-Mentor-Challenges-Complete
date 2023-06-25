@@ -16,8 +16,8 @@ That is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Screenshots
 
-![screenshot of desktop](github/screenshot/screenshot-desktop.png)
-![screenshot of mobile](github/screenshot/screenshot-mobile.png)
+![desktop](github/screenshot/desktop.png)
+![mobile](github/screenshot/mobile.png)
 
 ### Links
 
@@ -40,6 +40,5 @@ That is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ## Author
 
-- Frontend Mentor - [@octavio-oi](https://www.frontendmentor.io/profile/octavio-oi)
+- Linkedin - [Octavio Veiga](https://www.linkedin.com/in/octavio-veiga-1606ba1a2/)
 - Codepen - [@octavio-oi](https://codepen.io/octavio-oi)
-- Twitter - [@octavio_oi](https://www.twitter.com/octavio-oi)

@@ -8,3 +8,4 @@
 
 - [QR Code Component](https://octavio-oi.github.io/Frontend-Mentor-Challenges-Complete/challenges/qr-code-component/)
 - [Product Preview Card Component](https://octavio-oi.github.io/Frontend-Mentor-Challenges-Complete/challenges/product-preview-card-component/)
+- [NFT Preview Card Component](https://octavio-oi.github.io/Frontend-Mentor-Challenges-Complete/challenges/nft-preview-card-component/)
