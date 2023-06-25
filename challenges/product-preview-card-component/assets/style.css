@@ -50,6 +50,7 @@ body, h1, h2, p {margin: 0;}
 .card_preview img {
   display: block;
   max-width: 100%;
+  border-radius: 1rem 0 0 1rem;
 }
 
 .card_content {
@@ -58,6 +59,7 @@ body, h1, h2, p {margin: 0;}
   align-content: space-between;
   background: hsl(var(--clr-neutral-white));
   padding: 1.5rem;
+  border-radius: 0 1rem 1rem 0;
 }
 
 .card_span {
@@ -162,5 +164,13 @@ body, h1, h2, p {margin: 0;}
   .card {
     grid-template: auto 1fr / 1fr;
     width: 20rem;
+  }
+
+  .card_preview img {
+    border-radius: 1rem 1rem 0 0;
+  }
+
+  .card_content {
+    border-radius: 0 0 1rem 1rem;
   }
 }
